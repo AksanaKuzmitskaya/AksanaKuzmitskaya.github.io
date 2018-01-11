@@ -25,7 +25,7 @@ facebook: "" # Add your Facebook handle
 # pinterest: # Add your Pinterest handle
 
 # Newsletter
-mailchimp: d8dedfa3e7 # Add your MailChimp form identifier.
+mailchimp: //github.us17.list-manage.com/subscribe/post?u=c6712d2e439e8941cd548f25c&amp;id=d8dedfa3e7 # Add your MailChimp form identifier.
 
 # Disqus
 discus_identifier: My personal blog - Aksana Kuzmitskaya # Add your discus identifier
