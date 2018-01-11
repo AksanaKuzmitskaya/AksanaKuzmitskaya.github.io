@@ -28,7 +28,7 @@ facebook: "" # Add your Facebook handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: My personal blog - Aksana Kuzmitskaya # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
