@@ -13,7 +13,7 @@ I want to share my running tips with you, that I collected from my personal expe
 
 But first, let me tell you about my running experience.
 I am passionate about running and really enjoy it!
-I've been running regularly since 2013 for my pleasure. In the past year, I started training for races. I have completed 9+1 program with [NYRR] [nyrr-page] club, where I ran 9 races and 2 of them are half marathons with average pace 7:50 per mile or 4:52 per km, total I ran half marathon in 1:42:40 in order to earn guaranteed entry to the TCS New York City Marathon 2018! I am very excited about it!
+I've been running regularly since 2013 for my pleasure. In the past year, I started training for races. I have completed 9+1 program with [NYRR] [nyrr-page] club to earn guaranteed entry to the TCS New York City Marathon 2018, where I ran 9 races and 2 of them are half marathons with average pace 7:50 per mile or 4:52 per km, total I ran half marathon in 1:42:40! I am very excited about it!
 ![me][me-image]
 
 Occasionally, I get asked how to start running, that is why I decided to write this post. 
