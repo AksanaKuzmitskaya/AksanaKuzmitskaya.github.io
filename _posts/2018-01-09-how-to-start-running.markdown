@@ -40,9 +40,10 @@ So, let's get started!
 
     ![img][runkeeper-image]
 
- 5. It's good to have a plan in mind, like running once a week or every other day. 
+5. It's good to have a plan in mind, like running once a week or every other day. 
 
- Enjoy your Run!
+Enjoy your run! 
+
 ![runner][runner-image]
 
 [runkeeper-image]: /assets/img/post1-runkeeper.jpg
@@ -50,3 +51,4 @@ So, let's get started!
 [runner-image]: /assets/img/post1-b&wrunner.jpg
 [sunrise-image]: /assets/img/post1-sunrise.jpg
 [runkeeper-page]: https://runkeeper.com 
+[nyrr-page]: http://www.nyrr.org/join-and-give/become-a-member/run-9-give-1
