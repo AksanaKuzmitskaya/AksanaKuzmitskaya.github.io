@@ -74,6 +74,9 @@ Enjoy your run!
 
 ![runner][runner-image]
 
+<i class="fa fa-quote-left fa-2x fa-2x fa-pull-left fa-border"></i>*I ran and ran and ran every day, and I acquired this sense of determination, this sense of spirit that I would never, never give up, no matter what else happened. - Wilma Rudolph*
+
+
 [runkeeper-image]: /assets/img/post1-runkeeper.jpg
 [me-image]: /assets/img/post1-mehalfmarathon.jpg
 [runner-image]: /assets/img/post1-b&wrunner.jpg
