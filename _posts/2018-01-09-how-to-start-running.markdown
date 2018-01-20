@@ -51,7 +51,7 @@ Track your progress with an app. I personally love [runkeeper][runkeeper-page].
 
 As you can see from the screenshots above, it gives you a lot of useful data and statistics. While running, the app gives you updates on your current distance, total time and pace, average pace. You can create your own custom workouts there. I like to create interval training. You can follow your friends there and get updates when they complete their run.
 
-## 5\. Dynamic and Static Stretch
+## 5\. Dynamic and Static Stretches
 
 **Stretching is important** for an injury-free run. When I was doing my first runs, I just got out and ran and got injured a couple of times, don't follow my mistakes. 
 
