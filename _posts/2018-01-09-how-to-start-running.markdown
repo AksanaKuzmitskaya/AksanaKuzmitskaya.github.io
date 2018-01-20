@@ -65,7 +65,7 @@ Now, before each run, I like to stretch **dynamically**. Usually, I do:
 * feet stretch,
 * deep side lounges, etc.
 
-A **static** stretch is very rewarding after you have completed your run. My favorites post-run static stretches are:
+**Static** stretches after you completed your run are very rewarding. My favorite post-run static stretches are:
 
 * thigh hug,
 * resistance leg,
