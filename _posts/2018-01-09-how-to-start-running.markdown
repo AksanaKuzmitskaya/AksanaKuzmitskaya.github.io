@@ -9,17 +9,17 @@ author: # Add name author (optional)
 ---
 
 Hi, my dear running enthusiast!
-I want to share my running tips with you, that I collected from my personal experience, conversations with professional runners, running videos, books, and articles. 
+I want to share my running tips with you, which I have collected from my personal experience, conversations with professional runners, running videos, books, and articles. 
 
 >**My running experience:**
-I am very passionate about running and have been running regularly for my pleasure since 2013. In the past year, I started training for races. I have completed 9+1 program with [NYRR] [nyrr-page] club to earn guaranteed entry to the TCS New York City Marathon 2018, where I ran 9 races and 2 of them are half marathons with average pace 7:50 per mile or 4:52 per km, total I ran half marathon in 1:42:40! I am very excited about it!
+I am very passionate about running and have been running regularly for my pleasure since 2013. In the past year, I started training for races. I completed the 9+1 program with [NYRR] [nyrr-page] club to earn guaranteed entry to the TCS New York City Marathon 2018. For this program, I ran 9 races, 2 of which were half marathons with an average pace of 7:50 per mile or 4:52 per km, in total I ran a half marathon in 1:42:40! I am very excited about it!
 ![me][me-image]
 
-Occasionally, I get asked how to start running and any useful tips I can give, that is why I decided to write this post. 
+Occasionally, I get asked how to start running and for any useful tips I can give; that is why I decided to write this post. 
 
 ## 1\. Short Distance
 
-Start running with the short distance and gradually increase it. The pace shouldn't interrupt your breathing. You should be able to speak easily while running.
+Start running with a short distance and gradually increase it. The pace shouldn't interrupt your breathing. You should be able to speak easily while running.
 
 ## 2\. Empty Stomach
 
@@ -27,7 +27,7 @@ Don't eat 1-2 hours before your run, of course, it depends on your digestion sys
 
 ## 3\. Any Time 
 
-Run whenever you have time. I like to run in the morning, at lunchtime or at night, depends on my mood and timing availability. Every time has its own beauty anyways.
+Run whenever you have time. I like to run in the morning, at lunchtime or at night, it depends on my mood and timing availability. Every time has its own beauty anyways.
 
 **Mornings** are good because you get to start your day energized and on a good note. There are several things you can do while running in the morning: planning your day, getting new ideas into your mind or just smiling and enjoying the rising sun.  Sunrises are beautiful to watch.
     
@@ -49,7 +49,7 @@ Track your progress with an app. I personally love [runkeeper][runkeeper-page].
 
 ![img][runkeeper-image]
 
-As you can see from the screenshots above, it gives you a lot of useful data and statistics. While running, the app gives you updates on your current distance, total time and pace, average pace. You can create your own custom workouts there. I like to create interval training. You can follow your friends there and get updates when they complete their run.
+As you can see from the screenshots above, it gives you a lot of useful data and statistics. While running, the app gives you updates on your current distance, total time and pace, and average pace. You can create your own custom workouts there. I like to create interval training. You can follow your friends and get updates when they complete their run.
 
 ## 5\. Dynamic and Static Stretches
 
@@ -74,12 +74,12 @@ Now, before each run, I like to stretch **dynamically**. Usually, I do:
 * pigeon,
 * shoulder stand, etc.
 
-Recently I have discovered a **foam roller** for myself and it's amazing, especially if you are planning to become a long distance runner. I follow this video 
+Recently I discovered a **foam roller** for myself and it's amazing, especially if you are planning to become a long distance runner. I follow this video 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/khC5J1lkC7s?start=40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## 6\. Running Gear
 
-Get yourself a nice running outfit, you will feel good about yourself and it will make a run more comfortable and fun. Adidas by Stella McCartney is an excellent and unique balance between fashion, functionality plus design.
+Get yourself a nice running outfit, you will feel good about yourself and it will make a run more comfortable and fun. Adidas by Stella McCartney is an excellent and unique balance of fashion, functionality, and design.
 
 ![stella-running][stella-running-image]
 
@@ -89,7 +89,7 @@ My favorite running shoes so far are [Nike Air Zoom Pegasus 34][nike-shoes-page]
 
 ## 7\. Other Activities
 
-To improve your running form and performance I encourage you to try yoga or pilates, swimming, weights. I usually go 3 times a week to different yoga classes, once a week I do pilates and weights and I really want to incorporate more swimming into my exercise routine. 
+To improve your running form and performance I encourage you to try yoga or pilates, swimming, or strength-training. I usually go 3 times a week to different yoga classes, once a week I do pilates and weights and I really want to incorporate more swimming into my exercise routine. 
 
 ## 8\. Plan
 
