@@ -5,7 +5,7 @@ date: 2018-01-09
 description: Running tips for beginners. # Add post description (optional)
 img: post1-mainrunners.jpg # Add image post (optional)
 tags: [Blog, Running]
-author: # Add name author (optional)
+author: Aksana Kuzmitskaya
 ---
 
 Hi, my dear running enthusiast!
