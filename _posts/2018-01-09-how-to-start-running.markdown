@@ -2,7 +2,7 @@
 layout: post
 title: How to start running
 date: 2018-01-09
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Running tips for beginners. # Add post description (optional)
 img: post1-mainrunners.jpg # Add image post (optional)
 tags: [Blog, Running]
 author: # Add name author (optional)
