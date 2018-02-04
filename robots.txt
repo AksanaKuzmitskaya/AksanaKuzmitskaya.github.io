@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://aksanakuzmitskaya.github.io/sitemap.xml
