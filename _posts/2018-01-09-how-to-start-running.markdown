@@ -13,7 +13,7 @@ I want to share my running tips with you, that I collected from my personal expe
 
 >**My running experience:**
 I am very passionate about running and have been running regularly for my pleasure since 2013. In the past year, I started training for races. I have completed 9+1 program with [NYRR] [nyrr-page] club to earn guaranteed entry to the TCS New York City Marathon 2018, where I ran 9 races and 2 of them are half marathons. I am very excited about it! 
-My best half marathon was Popular Brooklyn Half Marathon which I ran with average pace 7:30 per mile or 4:39 per km and finished it in 1:38:08!
+My best half marathon was Popular Brooklyn Half Marathon. I ran with average pace 7:30 per mile or 4:39 per km and completed it in 1:38:08!
 ![me][me-image]
 
 Occasionally, I get asked how to start running and any useful tips I can give, that is why I decided to write this post. 
