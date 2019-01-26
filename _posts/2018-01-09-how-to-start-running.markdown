@@ -2,17 +2,22 @@
 layout: post
 title: How to start running
 date: 2018-01-09
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Running tips for beginners. # Add post description (optional)
 img: post1-mainrunners.jpg # Add image post (optional)
 tags: [Blog, Running]
-author: # Add name author (optional)
+author: Aksana Kuzmitskaya
 ---
 
 Hi, my dear running enthusiast!
 I want to share my running tips with you, which I have collected from my personal experience, conversations with professional runners, running videos, books, and articles. 
 
 >**My running experience:**
+<<<<<<< HEAD
 I am very passionate about running and have been running regularly for my pleasure since 2013. In the past year, I started training for races. I completed the 9+1 program with [NYRR] [nyrr-page] club to earn guaranteed entry to the TCS New York City Marathon 2018. For this program, I ran 9 races, 2 of which were half marathons with an average pace of 7:50 per mile or 4:52 per km, in total I ran a half marathon in 1:42:40! I am very excited about it!
+=======
+I am very passionate about running and have been running regularly for my pleasure since 2013. In the past year, I started training for races. I have completed 9+1 program with [NYRR] [nyrr-page] club to earn guaranteed entry to the TCS New York City Marathon 2018, where I ran 9 races and 2 of them are half marathons. I am very excited about it! 
+My best half marathon was Popular Brooklyn Half Marathon. I ran with average pace 7:30 per mile or 4:39 per km and completed it in 1:38:08!
+>>>>>>> ec2fdb9d4fbf8562bf2ada21964d4c9b7e1958fe
 ![me][me-image]
 
 Occasionally, I get asked how to start running and for any useful tips I can give; that is why I decided to write this post. 
